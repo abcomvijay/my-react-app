@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './registration.css'
+import './Registration.css'
 
 function Registration()
 {
